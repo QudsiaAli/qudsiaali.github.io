@@ -1081,6 +1081,11 @@
 		background-color: #f5f5f5;
 		color: #000;
 	}
+	
+	.cup-cake-icon
+	{
+		background-image: url('images/icon/cupcake-icon.png');
+	}
 
 
 
